@@ -1,0 +1,20 @@
+{
+  "name": "status-dc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "^5.2.1",
+    "discord.js": "^13.7.0",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6"
+  }
+}
